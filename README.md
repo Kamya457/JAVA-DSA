@@ -14,6 +14,7 @@ I am building this repository while learning Java and DSA through Kunal Kushwaha
 ~ Build a strong foundation for technical interviews and competitive programming
 
 📚 Topics Covered
+
 The repository will gradually cover:
 
 ~ Java Basics
